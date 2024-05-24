@@ -1,5 +1,5 @@
 # Discriminant-Calculator
-###2024/04/20
+### 2024/04/20
 A simpler way for calculating the discriminant of a given set of values for b, a, and c.
 ## How to use it:
 Using the discriminant calculator is relatively simple, first extract the file and than run the setup.exe. From there you can use the application, and will see the following interface:
