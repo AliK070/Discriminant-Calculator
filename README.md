@@ -27,3 +27,6 @@ A few settings that have been implented are features such as dark mode, toggle t
 
 ![sc3](https://github.com/AliK070/Discriminant_Calculator/assets/170590240/ff16ce8d-be5e-4ce6-b8db-ef54acf0a8b4)
 
+## Dark Mode Example
+
+![darkmode](https://github.com/AliK070/Discriminant-Calculator/assets/170590240/545bdec2-1873-479b-86a9-5245372b4039)
