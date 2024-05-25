@@ -1,6 +1,6 @@
 # Discriminant-Calculator
 ### 2024/04/20
-A simpler way for calculating the discriminant of a given set of values for b, a, and c, using the quadratic equation.
+A simpler way for calculating the discriminant of a given set of values for b, a, and c, using the quadratic equation. You can simply run the code or download the executable version from the releases.
 ## How to use it:
 Using the discriminant calculator is relatively simple, first extract the file and than run the setup.exe. From there you can use the application, and will see the following interface:
 ![sc1](https://github.com/AliK070/Discriminant_Calculator/assets/170590240/bb04555c-4675-4601-8f60-bd67d1364d83)
